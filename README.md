@@ -1,4 +1,4 @@
-# YouTube Cleaner Filters 
+# Remove Youtube Distraction
 
 A custom **uBlock Origin filter list** that removes Shorts, ads, comments, infinite scroll, and other distractions from YouTube.  You don't need another extension for it
 
