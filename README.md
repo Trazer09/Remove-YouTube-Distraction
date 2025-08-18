@@ -4,12 +4,12 @@ A custom **uBlock Origin filter list** that removes Shorts, ads, comments, infin
 
 ## Features
 
-- 🚫 Hide YouTube **Shorts** everywhere (homepage, sidebar, search, subscriptions, channels)  
-- 🚫 Remove **ads & promo banners**  
-- 🚫 Hide **comments section** and engagement junk  
-- 🚫 Disable **infinite scrolling** on homepage & search  
-- 🚫 Remove **notification bell**, sidebars, “For You” sections  
-- 🚫 Clean up UI for focus-friendly watching  
+-  Hide YouTube **Shorts** everywhere (homepage, sidebar, search, subscriptions, channels)  
+-  Remove **ads & promo banners**  
+-  Hide **comments section** and engagement junk  
+-  Disable **infinite scrolling** on homepage & search  
+-  Remove **notification bell**, sidebars, “For You” sections  
+-  Clean up UI for focus-friendly watching  
 
 ## Installation
 
@@ -21,8 +21,8 @@ Install [uBlock Origin](https://github.com/gorhill/uBlock).
 
 ## Option 1:
 
-Copy and paste the filtes.txt content in my 
-filters and clicking apply changes. 
+Copy and paste the filtes.txt content in **My 
+Filters** section of ublock origin and click apply changes. 
 
 ## Option 2:
 
