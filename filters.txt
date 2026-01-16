@@ -235,3 +235,12 @@ youtube.com##.ytSearchboxComponentSuggestionsContainer
 
 ! People also search for
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+
+! Ai-generated description
+www.youtube.com###video-summary > .ytd-structured-description-content-renderer.style-scope
+
+! Social links in description
+www.youtube.com###social-links
+
+! Transcript - description
+www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
