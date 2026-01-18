@@ -247,3 +247,6 @@ www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structure
 ! Channel link in description
 www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
 
+! Live chat carousel
+www.youtube.com##.ytVideoMetadataCarouselViewModelHost
+
