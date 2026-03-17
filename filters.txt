@@ -254,3 +254,29 @@ www.youtube.com##.ytVideoMetadataCarouselViewModelHost
 www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-item-section-renderer.style-scope
 www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
 
+
+! --------------------------------------------------
+! Full window mode ( Theater Mode But Better ) 
+! --------------------------------------------------
+
+! hide banner & recover space
+www.youtube.com##ytd-app[is-watch-page]:has(ytd-watch-flexy[theater]) #masthead-container
+www.youtube.com##ytd-app[is-watch-page] ytd-page-manager:has(ytd-watch-flexy[theater]):style( margin-top: 0 !important; )
+
+! occupy viewport
+www.youtube.com##ytd-watch-flexy[theater] #full-bleed-container:style( min-height: 100vh !important; height: 100vh !important; )
+www.youtube.com##ytd-watch-flexy[theater] video:style( top: unset !important; left: unset !important; height: 100vh !important; width: 100vw !important; object-fit: contain !important; )
+
+! hide video when ended
+www.youtube.com##ytd-watch-flexy[theater] video[style*=" top: -"]
+
+! change how the thumbnail image fits the screen:
+!  (note: smaller images will not fill the screen if these filter are used)
+! www.youtube.com##ytd-watch-flexy[theater] .ytp-cued-thumbnail-overlay-image:style( background-size: contain; )
+! www.youtube.com##ytd-watch-flexy[theater] .ytp-cued-thumbnail-overlay-image:style( background-size: cover; )
+
+! hide the vertical scrollbar (scrolling still possible)
+www.youtube.com##body:has(ytd-watch-flexy[theater])::-webkit-scrollbar:style( display: none !important; )
+! hide the vertical scrollbar - Firefox specific if needed.
+www.youtube.com##:is(body,html):has(ytd-watch-flexy[theater]):style( scrollbar-width: none !important; )
+
