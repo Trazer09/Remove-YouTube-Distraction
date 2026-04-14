@@ -1,7 +1,7 @@
 ! Title: Remove YouTube Distraction
 ! Description: Hide shorts, ads, comments, infinite scroll, and other distractions from YouTube.
-! Version: 2026.03.17
-! Last modified: 2026-03-17
+! Version: 2026.04.14
+! Last modified: 2026-04-14
 ! Homepage: https://github.com/Trazer09/Remove-YouTube-Distraction
 ! License: https://github.com/Trazer09/Remove-YouTube-Distraction/blob/main/LICENSE
 
@@ -188,8 +188,10 @@ www.youtube.com###vote-count-middle.ytd-comment-action-buttons-renderer
 ! Search Results
 ! --------------------------------------------------
 
-! Search suggestions & promoted results
-www.youtube.com##div.sbdd_a
+! Block search suggestion requests
+||suggestqueries*.youtube.com^
+
+! Promoted results
 www.youtube.com###container.ytd-search ytd-search-pyv-renderer
 
 ! Shorts in search
@@ -229,9 +231,6 @@ www.youtube.com##ytd-rich-item-renderer[badge-text]
 www.youtube.com##ytd-notification-topbar-button-renderer
 www.youtube.com##ytd-item-section-renderer[is-playlist-suggestions]
 www.youtube.com##ytd-info-panel-container-renderer
-
-! Search box dropdown
-youtube.com##.ytSearchboxComponentSuggestionsContainer
 
 ! People also search for
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
@@ -280,4 +279,3 @@ www.youtube.com##ytd-watch-flexy[theater] video[style*=" top: -"]
 www.youtube.com##body:has(ytd-watch-flexy[theater])::-webkit-scrollbar:style( display: none !important; )
 ! hide the vertical scrollbar - Firefox specific if needed.
 www.youtube.com##:is(body,html):has(ytd-watch-flexy[theater]):style( scrollbar-width: none !important; )
-
