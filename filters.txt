@@ -188,7 +188,7 @@ www.youtube.com###vote-count-middle.ytd-comment-action-buttons-renderer
 ! Search Results
 ! --------------------------------------------------
 
-! Block search suggestion requests
+! Block search suggestion requests (credit: https://github.com/probecat)
 ||suggestqueries*.youtube.com^
 
 ! Promoted results
