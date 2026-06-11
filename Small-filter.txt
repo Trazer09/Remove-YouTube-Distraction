@@ -1,0 +1,44 @@
+! Small list of filters: 
+
+www.youtube.com###author-thumbnail
+www.youtube.com###container.ytd-search grid-shelf-view-model.ytGridShelfViewModelHost
+www.youtube.com###end > .ytd-masthead.style-scope
+www.youtube.com###header-author
+www.youtube.com###info-container
+www.youtube.com###logo
+www.youtube.com###metadata
+www.youtube.com###mouseover-overlay
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###secondary
+www.youtube.com###social-links
+www.youtube.com###video-preview
+www.youtube.com###video-summary > .ytd-structured-description-content-renderer.style-scope
+www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
+www.youtube.com##.html5-endscreen
+www.youtube.com##.ytVideoMetadataCarouselViewModelHost
+www.youtube.com##.ytp-cards-teaser
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-fullscreen-grid-stills-container
+www.youtube.com##.ytwHowThisWasMadeSectionViewModelHost
+www.youtube.com##button.ytp-button.ytp-cards-button
+www.youtube.com##div.style-scope.yt-chip-cloud-renderer
+www.youtube.com##div.videoAttributesSectionViewModelHost
+www.youtube.com##div.ytp-fullscreen-grid-stills-container
+www.youtube.com##div.ytp-pause-overlay
+www.youtube.com##ytd-app[is-watch-page]:has(ytd-watch-flexy[theater]) #masthead-container
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##ytd-info-panel-container-renderer
+www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-item-section-renderer.style-scope
+www.youtube.com##ytd-item-section-renderer[is-playlist-suggestions]
+www.youtube.com##ytd-notification-topbar-button-renderer
+www.youtube.com##ytd-thumbnail-overlay-loading-preview-renderer[is-preview-loading]
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-watch-flexy[theater] video[style*=" top: -"]
+www.youtube.com##:is(body,html):has(ytd-watch-flexy[theater]):style( scrollbar-width: none !important; )
+www.youtube.com##body:has(ytd-watch-flexy[theater])::-webkit-scrollbar:style( display: none !important; )
+www.youtube.com##ytd-app[is-watch-page] ytd-page-manager:has(ytd-watch-flexy[theater]):style( margin-top: 0 !important; )
+www.youtube.com##ytd-watch-flexy[theater] #full-bleed-container:style( min-height: 100vh !important; height: 100vh !important; )
+www.youtube.com##ytd-watch-flexy[theater] video:style( top: unset !important; left: unset !important; height: 100vh !important; width: 100vw !important; object-fit: contain !important; )
+
+youtube.com##.ytSearchboxComponentSuggestionsContainer
