@@ -21,9 +21,11 @@ www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-fullscreen-grid-stills-container
 www.youtube.com##.ytwHowThisWasMadeSectionViewModelHost
 www.youtube.com##button.ytp-button.ytp-cards-button
+www.youtube.com##div.shortsLockupViewModelHostOutsideMetadataSubhead.shortsLockupViewModelHostMetadataSubhead
 www.youtube.com##div.style-scope.yt-chip-cloud-renderer
 www.youtube.com##div.style-scope.ytd-shelf-renderer
 www.youtube.com##div.videoAttributesSectionViewModelHost
+www.youtube.com##div.ytContentMetadataViewModelMetadataRow
 www.youtube.com##div.ytp-fullscreen-grid-stills-container
 www.youtube.com##div.ytp-pause-overlay
 www.youtube.com##ytd-app[is-watch-page]:has(ytd-watch-flexy[theater]) #masthead-container
