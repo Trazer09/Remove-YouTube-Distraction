@@ -22,6 +22,7 @@ www.youtube.com##.ytp-fullscreen-grid-stills-container
 www.youtube.com##.ytwHowThisWasMadeSectionViewModelHost
 www.youtube.com##button.ytp-button.ytp-cards-button
 www.youtube.com##div.style-scope.yt-chip-cloud-renderer
+www.youtube.com##div.style-scope.ytd-shelf-renderer
 www.youtube.com##div.videoAttributesSectionViewModelHost
 www.youtube.com##div.ytp-fullscreen-grid-stills-container
 www.youtube.com##div.ytp-pause-overlay
@@ -42,3 +43,4 @@ www.youtube.com##ytd-watch-flexy[theater] #full-bleed-container:style( min-heigh
 www.youtube.com##ytd-watch-flexy[theater] video:style( top: unset !important; left: unset !important; height: 100vh !important; width: 100vw !important; object-fit: contain !important; )
 
 youtube.com##.ytSearchboxComponentSuggestionsContainer
+
