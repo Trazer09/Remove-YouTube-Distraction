@@ -18,7 +18,13 @@ A custom **uBlock Origin filter list** that removes Shorts, ads, comments, infin
 Install [uBlock Origin](https://github.com/gorhill/uBlock).  
 
 
-Copy and paste the **filtes.txt** content in **My Filters** section of ublock origin and click apply changes. 
+There are 2 filters:
+
+smaller-filter-list.txt and bigger-filter-list
+
+Choose smaller-filter-list.txt for a simple list and bigger-filter-list.txt for a hard distraction remover list.
+
+Copy and paste the content of either bigger-filter-list.txt or smaller-filter-list.txt into the "My Filters" section of uBlock Origin, then click "Apply Changes."
 
 
 ## Notes
