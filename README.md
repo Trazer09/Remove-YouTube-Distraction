@@ -20,7 +20,7 @@ Install [uBlock Origin](https://github.com/gorhill/uBlock).
 
 There are 2 filters:
 
-smaller-filter-list.txt and bigger-filter-list
+smaller-filter-list.txt and bigger-filter-list.txt
 
 Choose smaller-filter-list.txt for a simple list and bigger-filter-list.txt for a hard distraction remover list.
 
