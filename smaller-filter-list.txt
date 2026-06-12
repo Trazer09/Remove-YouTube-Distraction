@@ -44,5 +44,7 @@ www.youtube.com##ytd-app[is-watch-page] ytd-page-manager:has(ytd-watch-flexy[the
 www.youtube.com##ytd-watch-flexy[theater] #full-bleed-container:style( min-height: 100vh !important; height: 100vh !important; )
 www.youtube.com##ytd-watch-flexy[theater] video:style( top: unset !important; left: unset !important; height: 100vh !important; width: 100vw !important; object-fit: contain !important; )
 
+www.youtube.com###vote-count-middle
+www.youtube.com###creator-heart-button
 youtube.com##.ytSearchboxComponentSuggestionsContainer
 
