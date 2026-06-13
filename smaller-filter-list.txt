@@ -1,4 +1,7 @@
-! Small list of filters: 
+! Title: Remove YouTube Distraction ( smaller list )
+! Description: Hide shorts, ads, comments, infinite scroll, and other distractions from YouTube.
+! Last modified: 2026-06-13
+! Homepage: https://github.com/Trazer09/Remove-YouTube-Distraction
 
 www.youtube.com###author-thumbnail
 www.youtube.com###container.ytd-search grid-shelf-view-model.ytGridShelfViewModelHost
