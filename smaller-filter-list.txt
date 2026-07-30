@@ -29,8 +29,8 @@ www.youtube.com###video-summary > .ytd-structured-description-content-renderer.s
 ! Video attributes section
 www.youtube.com##div.videoAttributesSectionViewModelHost
 
-! Metadata row (views, upload date, etc.)
-www.youtube.com##div.ytContentMetadataViewModelMetadataRow
+! Metadata row (Channel name and playlist details on search results)
+! www.youtube.com##div.ytContentMetadataViewModelMetadataRow
 
 ! Playlist suggestions
 www.youtube.com##ytd-item-section-renderer[is-playlist-suggestions]
