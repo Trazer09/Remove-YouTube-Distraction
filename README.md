@@ -4,12 +4,10 @@ A custom **uBlock Origin filter list** that removes YouTube distractions like Sh
 
 ## Features
 
-* Hide **YouTube Shorts** across the site
-* Remove **ads and promo banners**
-* Hide **comments and engagement clutter**
-* Disable **infinite scrolling**
-* Remove distracting **sidebars, notifications, and “For You” sections**
-* Keep YouTube clean and focused for watching
+* **Block Shorts, ads & promo banners** across YouTube.
+* **Remove distractions** like comments, infinite scrolling, sidebars, notifications & “For You” sections.
+* **Keep YouTube clean and focused** — watch what you came for, without the noise.
+
 
 ## Installation
 
@@ -17,7 +15,7 @@ Install [uBlock Origin](https://github.com/gorhill/uBlock).
 
 Choose one of the two filter lists:
 
-* `smaller-filter-list.txt` — simple, lightweight filters
+* `smaller-filter-list.txt` — simple, lightweight filters (recommended)
 * `bigger-filter-list.txt` — stronger distraction removal
 
 Copy the contents of your chosen file into **uBlock Origin → My Filters**, then click **Apply Changes**.
