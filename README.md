@@ -1,40 +1,33 @@
 # Remove YouTube Distraction
 
-A custom **uBlock Origin filter list** that removes Shorts, ads, comments, infinite scroll, and other distractions from YouTube.  You don't need another extension for it
+A custom **uBlock Origin filter list** that removes YouTube distractions like Shorts, ads, comments, infinite scrolling, and unnecessary UI elements — without needing another extension.
 
 ## Features
 
--  **You don't need another extension** to remove the youtube distracting  elements 
--  Hide YouTube **Shorts** everywhere (homepage, sidebar, search, subscriptions, channels)  
--  Remove **ads & promo banners**  
--  Hide **comments section** and engagement junk  
--  Disable **infinite scrolling** on homepage & search  
--  Remove **notification bell**, sidebars, “For You” sections  
--  Clean up UI for focus-friendly watching  
+* Hide **YouTube Shorts** across the site
+* Remove **ads and promo banners**
+* Hide **comments and engagement clutter**
+* Disable **infinite scrolling**
+* Remove distracting **sidebars, notifications, and “For You” sections**
+* Keep YouTube clean and focused for watching
 
 ## Installation
 
+Install [uBlock Origin](https://github.com/gorhill/uBlock).
 
-Install [uBlock Origin](https://github.com/gorhill/uBlock).  
+Choose one of the two filter lists:
 
+* `smaller-filter-list.txt` — simple, lightweight filters
+* `bigger-filter-list.txt` — stronger distraction removal
 
-There are 2 filters:
+Copy the contents of your chosen file into **uBlock Origin → My Filters**, then click **Apply Changes**.
 
-- smaller-filter-list.txt
-- bigger-filter-list.txt
+> Some filters are commented out with `!`. You can enable them manually if needed.
 
-Choose smaller-filter-list.txt for a simple list and bigger-filter-list.txt for a hard distraction remover list.
+## ⭐ Star the Repo
 
-Copy and paste the content of either bigger-filter-list.txt or smaller-filter-list.txt into the "My Filters" section of uBlock Origin, then click "Apply Changes."
+YouTube changes its UI frequently, so these filters need regular updates.
 
+If you find this useful, **please consider starring the repository ⭐**. It helps you find the project again when YouTube changes, lets me know people are actually using it, and motivates me to keep the filters updated.
 
-## Notes
-
-Some filters are commented out (! in front) so you can enable them manually.
-
-This list is actively maintained to keep up with YouTube’s UI changes. If you find this repository useful, feel free to star ⭐ it to show your support.
-
-
-
-
-
+**One star = a little motivation to keep YouTube distraction-free. ❤️**
