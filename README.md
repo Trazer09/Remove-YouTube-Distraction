@@ -15,8 +15,8 @@ Install [uBlock Origin](https://github.com/gorhill/uBlock).
 
 Choose one of the two filter lists:
 
-* `smaller-filter-list.txt` — simple, lightweight filters (recommended)
-* `bigger-filter-list.txt` — stronger distraction removal
+- `smaller-filter-list.txt` — lightweight, less aggressive filtering *(recommended)*
+- `bigger-filter-list.txt` — stronger, more aggressive distraction removal
 
 Copy the contents of your chosen file into **uBlock Origin → My Filters**, then click **Apply Changes**.
 
