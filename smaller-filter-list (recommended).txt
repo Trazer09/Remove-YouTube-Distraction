@@ -22,6 +22,9 @@ www.youtube.com###metadata
 ! Social links in description
 www.youtube.com###social-links
 
+! Description Ask AI
+www.youtube.com##.ytVideoDescriptionYouchatSectionViewModelHost
+
 ! AI-generated video summary
 www.youtube.com###video-summary > .ytd-structured-description-content-renderer.style-scope
 
@@ -170,6 +173,9 @@ www.youtube.com###vote-count-middle
 
 ! Creator heart button
 www.youtube.com###creator-heart-button
+
+! Completely remove comments
+! www.youtube.com###comments > .ytd-comments.style-scope
 
 
 ! --------------------------------------------------
