@@ -1,6 +1,6 @@
-# Remove Web Distractions
+# Remove YouTube Distraction
 
-A collection of **uBlock Origin filters** to remove distracting and unnecessary elements from YouTube, Instagram, Reddit, and more.
+A collection of **uBlock Origin filters** to remove distractions and unwanted UI from YouTube, Instagram, Reddit, and more.
 
 **Make the web less distracting.**
 
@@ -39,4 +39,4 @@ Found a broken filter or have an idea? Open an **Issue** or submit a pull reques
 
 ---
 
-**Originally created as Remove YouTube Distraction. Now expanding to more of the web.**
+**Originally created for YouTube. Now expanding to more of the web.**
