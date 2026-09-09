@@ -19,3 +19,9 @@ www.reddit.com##.border-e-neutral-border.s\:border-e-sm.border-solid.border-0.m\
 
 ! Comment username + Time
 www.reddit.com##div.items-center.flex-nowrap.flex-row.flex-none.flex:nth-of-type(1)
+
+! Reddit icon
+www.reddit.com##.justify-start.items-center.gap-xs.flex.pe-lg
+
+! Right header
+! www.reddit.com##.justify-end.items-center.flex.gap-xs.ps-lg
