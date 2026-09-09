@@ -12,21 +12,20 @@ Choose the filter list you want:
 
 ### YouTube
 
-* `youtube.txt` — lightweight, less aggressive filtering *(recommended)*
-* `youtube-strict.txt` — stronger, more aggressive distraction removal
+* [`youtube.txt`](./youtube.txt) — lightweight, less aggressive filtering *(recommended)*
+* [`youtube-strict.txt`](./youtube-strict.txt) — stronger, more aggressive distraction removal
 
 ### Instagram
 
-* `instagram.txt` — Instagram distraction filters
+* [`instagram.txt`](./instagram.txt) — Instagram distraction filters
 
 ### Reddit
 
-* `reddit.txt` — Reddit distraction filters
+* [`reddit.txt`](./reddit.txt) — Reddit distraction filters
 
-Copy the contents of your chosen file into **uBlock Origin → My Filters**, then click **Apply Changes**.
+Click the filter you want, then copy its contents into **uBlock Origin → My Filters** and click **Apply Changes**.
 
 > Some filters are commented out with `!`. You can enable them manually if needed.
-
 
 ## ⭐ Support
 
