@@ -4,32 +4,29 @@ A collection of **uBlock Origin filters** to remove distractions and unwanted UI
 
 **Make the web less distracting.**
 
-## Filters
+## Installation
+
+Install [uBlock Origin](https://github.com/gorhill/uBlock).
+
+Choose the filter list you want:
 
 ### YouTube
 
-* [`youtube.txt`](./youtube.txt) — Recommended, lightweight filter
-* [`youtube-strict.txt`](./youtube-strict.txt) — Stronger, more aggressive filtering
-
-Removes distractions such as Shorts, recommendations, comments, sidebars, and other unnecessary UI.
+* `youtube.txt` — lightweight, less aggressive filtering *(recommended)*
+* `youtube-strict.txt` — stronger, more aggressive distraction removal
 
 ### Instagram
 
-* [`instagram.txt`](./instagram.txt) — Instagram distraction filters
+* `instagram.txt` — Instagram distraction filters
 
 ### Reddit
 
-* [`reddit.txt`](./reddit.txt) — Reddit distraction filters
+* `reddit.txt` — Reddit distraction filters
 
-## Installation
+Copy the contents of your chosen file into **uBlock Origin → My Filters**, then click **Apply Changes**.
 
-1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
-2. Open the filter file you want and click **Raw**.
-3. Add the raw URL as a **custom filter list** in uBlock Origin.
+> Some filters are commented out with `!`. You can enable them manually if needed.
 
-You can also copy the filter contents into **uBlock Origin → My Filters**.
-
-> Websites change frequently, so some filters may occasionally need updates.
 
 ## ⭐ Support
 
