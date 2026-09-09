@@ -1,0 +1,16 @@
+! Reddit
+
+! Homepage of reddit + feed
+www.reddit.com##.s\:\[\&\.flex-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_auto\].s\:\[\&\.fixed-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_minmax\(0\,316px\)\].fixed-sidebar.grid-cols-\[minmax\(0\,1fr\)\].place-content-between.grid.flex-1.w-full.gap-lg.main-container
+
+
+
+! Left sidebar
+www.reddit.com##.m\:border-t-0.mb-0.pt-md.mt-md.border-b-0.border-t-sm.border-x-0.border-neutral-border-weak.border-solid
+www.reddit.com##.overscroll-contain.px-md.box-border.bg-neutral-background.overflow-x-hidden.overflow-y-scroll.styled-scrollbars.h-screen-without-header.w-full.block.nd\:visible
+
+! Related posts
+www.reddit.com##.border-e-neutral-border.s\:border-e-sm.border-solid.border-0.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
+
+! Comment username + Time
+www.reddit.com##div.items-center.flex-nowrap.flex-row.flex-none.flex:nth-of-type(1)
