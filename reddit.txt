@@ -26,6 +26,12 @@ www.reddit.com##.justify-start.items-center.gap-xs.flex.pe-lg
 ! Right header
 ! www.reddit.com##.justify-end.items-center.flex.gap-xs.ps-lg
 
+! Complete Header
+! www.reddit.com##.px-md.border-neutral-border.border-b-sm.border-0.border-solid.pointer-events-auto.bg-neutral-background.v2
+
+! Right sidebar
+! www.reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
+
 
 ! Search header
 ! www.reddit.com##.w-full.max-w-\[750px\].translate-x-0.nd\:visible
