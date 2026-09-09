@@ -25,3 +25,7 @@ www.reddit.com##.justify-start.items-center.gap-xs.flex.pe-lg
 
 ! Right header
 ! www.reddit.com##.justify-end.items-center.flex.gap-xs.ps-lg
+
+
+! Search header
+! www.reddit.com##.w-full.max-w-\[750px\].translate-x-0.nd\:visible
