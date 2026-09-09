@@ -1,31 +1,42 @@
-# Remove YouTube Distraction
+# Remove Web Distractions
 
-A custom **uBlock Origin filter list** that removes YouTube distractions like Shorts, ads, comments, infinite scrolling, and unnecessary UI elements — without needing another extension.
+A collection of **uBlock Origin filters** to remove distracting and unnecessary elements from YouTube, Instagram, Reddit, and more.
 
-## Features
+**Make the web less distracting.**
 
-* **Block Shorts, ads & promo banners** across YouTube.
-* **Remove distractions** like comments, infinite scrolling, sidebars, notifications & “For You” sections.
-* **Keep YouTube clean and focused** — watch what you came for, without the noise.
+## Filters
 
+### YouTube
+
+* [`youtube.txt`](./youtube.txt) — Recommended, lightweight filter
+* [`youtube-strict.txt`](./youtube-strict.txt) — Stronger, more aggressive filtering
+
+Removes distractions such as Shorts, recommendations, comments, sidebars, and other unnecessary UI.
+
+### Instagram
+
+* [`instagram.txt`](./instagram.txt) — Instagram distraction filters
+
+### Reddit
+
+* [`reddit.txt`](./reddit.txt) — Reddit distraction filters
 
 ## Installation
 
-Install [uBlock Origin](https://github.com/gorhill/uBlock).
+1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
+2. Open the filter file you want and click **Raw**.
+3. Add the raw URL as a **custom filter list** in uBlock Origin.
 
-Choose one of the two filter lists:
+You can also copy the filter contents into **uBlock Origin → My Filters**.
 
-- `smaller-filter-list.txt` — lightweight, less aggressive filtering *(recommended)*
-- `bigger-filter-list.txt` — stronger, more aggressive distraction removal
+> Websites change frequently, so some filters may occasionally need updates.
 
-Copy the contents of your chosen file into **uBlock Origin → My Filters**, then click **Apply Changes**.
+## ⭐ Support
 
-> Some filters are commented out with `!`. You can enable them manually if needed.
+If you find these filters useful, consider **starring the repository** ⭐
 
-## ⭐ Star the Repo
+Found a broken filter or have an idea? Open an **Issue** or submit a pull request.
 
-YouTube changes its UI frequently, so these filters need regular updates.
+---
 
-If you find this useful, **please consider starring the repository ⭐**. It helps you find the project again when YouTube changes, lets me know people are actually using it, and motivates me to keep the filters updated.
-
-**One star = a little motivation to keep YouTube distraction-free. ❤️**
+**Originally created as Remove YouTube Distraction. Now expanding to more of the web.**
