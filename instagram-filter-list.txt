@@ -1,0 +1,79 @@
+! Title: Remove Instagram Distraction
+! Description: Hide shorts, ads, comments, infinite scroll, and other distractions from YouTube.
+! Last modified: 2026-04-27
+! Homepage: https://github.com/Trazer09/Remove-YouTube-Distraction
+
+
+! ===========================================================================
+! HOME FEED
+! ===========================================================================
+ 
+! Home feed posts container
+!www.instagram.com##.x1nhvcw1.x1oa3qoh.x6s0dn4.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div
+ 
+ 
+! ===========================================================================
+! RIGHT PANEL
+! ===========================================================================
+ 
+! Messages widget (right side)
+www.instagram.com##.xed3198.x1kylhsf.x4yb96v.xysibl7.x1ddxa5k.xf7dkkf.xv54qhq.xnnlda6.xpilrb4.xso031l.x1lun4ml.x178xt8z.xly64p6.xdwr3uu.x10qfohq.x6zsckl.x1n2onr6.xl56j7k.x3nfvp2.x1w60jca.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1o29io0.xvhwddo.x11ppq56.x1ss9elp.x7r02ix.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x18d9i69.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x1i10hfl
+ 
+! Stories status bar
+www.instagram.com##.xfk6m8.x7coems.xwib8y2.xrw5ot4.x1y1aw1k.x78zum5.x1rohswg.x1n2onr6.x10wlt62.xw2csxc.x5yr21d.x1q0g3np.x1qjc9v5
+ 
+! Profile status bar
+www.instagram.com##.xfk6m8.x1rohswg.x1n2onr6.x10wlt62.xw2csxc.x5yr21d.x1q0g3np.x78zum5.x1qjc9v5
+ 
+! Suggested for you section
+
+www.instagram.com##.xvbhtw8.x1j7kr1c.x162z183.xod5an3.x14z9mp.xdj266r.xdt5ytf.x78zum5
+ 
+! Right panel footer links
+www.instagram.com##._ab8b
+ 
+! Your account card (right panel)
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xseo6mj.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.html-div
+ 
+! Full right panel removal (uncomment to enable)
+! www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xseo6mj.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.html-div
+ 
+ 
+! ===========================================================================
+! LEFT NAVBAR — REELS
+! ===========================================================================
+ 
+! Reels link — collapsed navbar (href-based, stable across class changes)
+www.instagram.com##a[href="/reels/"]
+ 
+
+ 
+! Full left navbar removal (uncomment to enable)
+! www.instagram.com##.xh8yej3.x1g0dm76.xx6bls6.xpdmqnj.x1y1aw1k.x1qughib.x1gvbg2u.xdt5ytf.x78zum5.x9f619.x1cy8zhl
+ 
+ 
+! ===========================================================================
+! REELS — IN-VIDEO INTERACTIONS
+! ===========================================================================
+ 
+! Comments button
+www.instagram.com##div.xieb3on.xdt5ytf.x78zum5.x1ypdohk.x6s0dn4.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.x14z9mp.xdj266r.html-div > .x1y1aw1k.xf159sx.xmzvs34.x9otpla.x1w5wx5t.x1qfufaz.x18d9i69.x14snt5h.x1o7uuvo.x1jplu5e.x4gyw5p.x1epzrsm.xl56j7k.x78zum5.x1ypdohk.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x6s0dn4.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xat24cr.x3ct3a4.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1i10hfl
+ 
+! Like button
+www.instagram.com##div.xieb3on.xdt5ytf.x78zum5.x1ypdohk.x6s0dn4.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.x14z9mp.xdj266r.html-div:nth-of-type(1)
+ 
+! Save button
+www.instagram.com##.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x14snt5h.x1o7uuvo.x1jplu5e.x4gyw5p.x1epzrsm.xl56j7k.x78zum5.x1ypdohk.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x6s0dn4.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1i10hfl > .xl56j7k.xdt5ytf.x78zum5.x6s0dn4 > .xyb1xck.x1n2onr6.x1lliihq
+ 
+! Share button
+www.instagram.com##.xus2keu.xpzwpp9.x1epzrsm.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x3nfvp2.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .xyb1xck.x1n2onr6.x1lliihq
+ 
+! Profile avatar (reel overlay)
+www.instagram.com##.xpilrb4.xso031l.x1lun4ml.x178xt8z.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.xppr47r.xpjowex.xio30q5.xr117oq.xxw8d1.x1o7uuvo.x11s1u7o.x4gyw5p.xvy4d1p.x10wlt62.x6ikm8r.xxk0z11.x1pczhz8.x1wcsgtt.x1t39747.xjwep3j
+ 
+! More (⋯) button
+www.instagram.com##div.x1chd833.x78zum5.x6s0dn4.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.x14z9mp.xdj266r.html-div > .x1y1aw1k.xf159sx.xmzvs34.x9otpla.x1w5wx5t.x1qfufaz.x18d9i69.x14snt5h.x1o7uuvo.x1jplu5e.x4gyw5p.x1epzrsm.xl56j7k.x78zum5.x1ypdohk.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x6s0dn4.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xat24cr.x3ct3a4.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1i10hfl > .xl56j7k.xdt5ytf.x78zum5.x6s0dn4 > .xyb1xck.x1n2onr6.x1lliihq
+ 
+! Full reel video overlay removal (uncomment to enable)
+! www.instagram.com##.x1nhvcw1.x1oa3qoh.xuk3077.xqjyukv.x1q0g3np.xeuugli.x2lwn1j.x1iyjqo2.xryxfnj.x1plvlek.x1uhb9sk.xf7dkkf.x1l90r2v.xv54qhq.xyamay9.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x5lhr3w.x9f619.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div
+
