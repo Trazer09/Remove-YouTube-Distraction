@@ -1,40 +1,40 @@
-
+! ============================================================
+! Remove YouTube Distraction
 ! Source: https://github.com/Trazer09/Remove-YouTube-Distraction
+! ============================================================
 
 
-
+! ============================================================
 ! Reddit
+! ============================================================
 
-! Homepage of reddit + feed
+! Homepage / Feed
 www.reddit.com##.s\:\[\&\.flex-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_auto\].s\:\[\&\.fixed-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_minmax\(0\,316px\)\].fixed-sidebar.grid-cols-\[minmax\(0\,1fr\)\].place-content-between.grid.flex-1.w-full.gap-lg.main-container
 
-
-
-! Left sidebar
+! Left Sidebar
 www.reddit.com##.m\:border-t-0.mb-0.pt-md.mt-md.border-b-0.border-t-sm.border-x-0.border-neutral-border-weak.border-solid
 www.reddit.com##.overscroll-contain.px-md.box-border.bg-neutral-background.overflow-x-hidden.overflow-y-scroll.styled-scrollbars.h-screen-without-header.w-full.block.nd\:visible
 
-! Related posts
+! Related Posts
 www.reddit.com##.border-e-neutral-border.s\:border-e-sm.border-solid.border-0.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
 
-! Comment username + Time
+! Comment Username + Time
 www.reddit.com##div.items-center.flex-nowrap.flex-row.flex-none.flex:nth-of-type(1)
 
-! Reddit icon
+! Reddit Icon
 www.reddit.com##.justify-start.items-center.gap-xs.flex.pe-lg
 
-! Right header
+! Right Header [Disabled]
 ! www.reddit.com##.justify-end.items-center.flex.gap-xs.ps-lg
 
-! Complete Header
+! Complete Header [Disabled]
 ! www.reddit.com##.px-md.border-neutral-border.border-b-sm.border-0.border-solid.pointer-events-auto.bg-neutral-background.v2
 
-! Right sidebar
+! Right Sidebar [Disabled]
 ! www.reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
 
-! Subbredit header in the post
+! Subreddit Header in Post [Disabled]
 ! www.reddit.com##.pt-md.pb-2xs.relative.xs\:px-0.px-md.text-12.justify-between.flex
 
-
-! Search header
+! Search Header [Disabled]
 ! www.reddit.com##.w-full.max-w-\[750px\].translate-x-0.nd\:visible
