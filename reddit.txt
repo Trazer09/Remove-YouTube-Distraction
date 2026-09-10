@@ -32,6 +32,9 @@ www.reddit.com##.justify-start.items-center.gap-xs.flex.pe-lg
 ! Right sidebar
 ! www.reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
 
+! Subbredit header in the post
+! www.reddit.com##.pt-md.pb-2xs.relative.xs\:px-0.px-md.text-12.justify-between.flex
+
 
 ! Search header
 ! www.reddit.com##.w-full.max-w-\[750px\].translate-x-0.nd\:visible
