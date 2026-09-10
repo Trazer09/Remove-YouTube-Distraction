@@ -38,3 +38,56 @@ www.reddit.com##.justify-start.items-center.gap-xs.flex.pe-lg
 
 ! Search Header [Disabled]
 ! www.reddit.com##.w-full.max-w-\[750px\].translate-x-0.nd\:visible
+
+
+
+! ============================================================
+! Logout / Login Sidebar
+! ============================================================
+
+! Left Login Sidebar
+www.reddit.com##.overflow-hidden.relative.p-md.bg-neutral-background-weak.rounded-4.m-md.w-\[251px\].h-\[calc\(100vh-64px-56px\)\].flex-col.flex
+
+
+! ============================================================
+! Comments
+! ============================================================
+
+! Comment Avatar / Comment Container
+www.reddit.com###comment-children > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .xs\:grid-cols-\[32px_minmax\(0\,1fr\)\].grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0 > .items-start.tracking-normal.text-body-2.max-w-full.min-w-0.py-\[2px\].ps-xs.relative.flex
+
+www.reddit.com###comment-children > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .xs\:grid-cols-\[32px_minmax\(0\,1fr\)\].grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0
+
+www.reddit.com##.relative.gap-md.xs\:px-0.px-md.flex-col.flex > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .xs\:grid-cols-\[32px_minmax\(0\,1fr\)\].grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0 > .items-start.tracking-normal.text-body-2.max-w-full.min-w-0.py-\[2px\].ps-xs.relative.flex
+
+www.reddit.com##.relative.gap-md.xs\:px-0.px-md.flex-col.flex > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .xs\:grid-cols-\[32px_minmax\(0\,1fr\)\].grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0
+
+www.reddit.com##.relative.gap-md.xs\:px-0.px-md.flex-col.flex > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0 > .items-start.tracking-normal.text-body-2.max-w-full.min-w-0.py-\[2px\].ps-xs.relative.flex
+
+www.reddit.com##.relative.gap-md.xs\:px-0.px-md.flex-col.flex > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0
+
+www.reddit.com###comment-children > .col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0 > .items-start.tracking-normal.text-body-2.max-w-full.min-w-0.py-\[2px\].ps-xs.relative.flex
+
+www.reddit.com###comment-children > .col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .grid-cols-\[24px_minmax\(0\,1fr\)\].grid.list-none.m-0.pb-0
+
+
+! ============================================================
+! Comment Voting
+! ============================================================
+
+! Upvote Number
+www.reddit.com###comment-children > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .comment-main-grid.relative.grid-cols-\[24px_1fr\].grid > div.col-start-2.min-w-0 > .font-semibold.mt-2xs.gap-2xs.items-center.flex.mb-sm.mx-2xs.xs\:mx-xs.text-12.text-neutral-content-weak > faceplate-number
+
+www.reddit.com##.relative.gap-md.xs\:px-0.px-md.flex-col.flex > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .comment-main-grid.relative.grid-cols-\[24px_1fr\].grid > div.col-start-2.min-w-0 > .font-semibold.mt-2xs.gap-2xs.items-center.flex.mb-sm.mx-2xs.xs\:mx-xs.text-12.text-neutral-content-weak > faceplate-number
+
+
+! ============================================================
+! Comment Actions
+! ============================================================
+
+! Comment + Share + Upvote Section
+www.reddit.com###comment-children > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .comment-main-grid.xs\:grid-cols-\[32px_1fr\].relative.grid-cols-\[24px_1fr\].grid > div.col-start-2.min-w-0 > .min-h-xl > .nd\:hidden.block
+
+www.reddit.com##.relative.gap-md.xs\:px-0.px-md.flex-col.flex > shreddit-comment.col-start-2.\[contain\:style\].relative > .m-0.p-0.bg-transparent.relative > .comment-main-grid.xs\:grid-cols-\[32px_1fr\].relative.grid-cols-\[24px_1fr\].grid > div.col-start-2.min-w-0 > .min-h-xl > .nd\:hidden.block
+
+
