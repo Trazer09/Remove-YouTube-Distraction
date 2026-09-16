@@ -1,0 +1,1 @@
+www.google.com##div:nth-of-type(2) > .C6AK7c > .mXwfNd
