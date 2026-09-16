@@ -1,1 +1,4 @@
+! Use https://tenbluelinks.org/ to use Google web as the default search engine and below filter to remove the All section from the google results
+
+
 www.google.com##div:nth-of-type(2) > .C6AK7c > .mXwfNd
