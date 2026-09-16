@@ -1,4 +1,5 @@
-! Use https://tenbluelinks.org/ to use Google web as the default search engine and below filter to remove the "All" section from the google results
+! Use https://tenbluelinks.org/ to use Google web as the default search engine and below filter to remove the "All" section from the google results.
+! Also turn on EasyList – Annoyances filter in the ublock origin extension to remove google AI mode section altogether. 
 
 
 www.google.com##div:nth-of-type(2) > .C6AK7c > .mXwfNd
